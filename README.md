@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋, I'm Samuel
 
 <!--
 **SamMed05/SamMed05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a 16 y/o student from Italy. I'm learning a lot of things on my own. More info below ⬇.
+
+### ✨ Passions:
+- Learning 🧠
+- Programming 👨‍💻
+- Web and app develompment
+- Game develompment (Unity 🎮)
+- 3D modeling (Blender 🧡)
+- Generative art 🎨
+- Music 🎵 (Ludovico Einaudi 🤍)
+
+## Links:
+
+### 📝 Blog:
+[sammed05.github.io/sm_blog](https://sammed05.github.io/sm_blog/)
+
+### 🌐 Website:
+[samdev.netlify.app](https://samdev.netlify.app/)
+
+### 💬 Socials:
+- [Twitter 🐦](https://twitter.com/MedianiSamuel)
+- [SoundCloud 🎵](https://soundcloud.com/user-398636691)
+
