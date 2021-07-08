@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammed05)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Hi there 👋, I'm Samuel
 
 <!--
@@ -40,3 +38,4 @@ I'm a 16 y/o student from Italy. I'm learning a lot of things on my own. More in
 - [Twitter 🐦](https://twitter.com/MedianiSamuel)
 - [SoundCloud 🎵](https://soundcloud.com/user-398636691)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammed05)](https://github.com/anuraghazra/github-readme-stats)
