@@ -20,7 +20,7 @@ I'm a 16 y/o student from Italy. I'm learning a lot of things on my own. More in
 ### ✨ Passions:
 - Learning 🧠
 - Programming 👨‍💻
-- Web and app develompment
+- Web and app develompment 💻
 - Game develompment (Unity 🎮)
 - 3D modeling (Blender 🧡)
 - Generative art 🎨
@@ -33,6 +33,9 @@ I'm a 16 y/o student from Italy. I'm learning a lot of things on my own. More in
 
 ### 🌐 Website:
 [samdev.netlify.app](https://samdev.netlify.app/)
+
+### 📒 Programming notes (C/C++):
+[c-cpp-notes.vercel.app](https://c-cpp-notes.vercel.app/)
 
 ### 💬 Socials:
 - [Twitter 🐦](https://twitter.com/MedianiSamuel)
