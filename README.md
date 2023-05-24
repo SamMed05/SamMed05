@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 17 y/o student from Italy. I'm learning a lot of things on my own. More info below ⬇.
+I'm a 18 y/o student from Italy. I'm learning a lot of things on my own. More info below ⬇.
 
 ### ✨ Passions:
 - Learning 🧠
