@@ -1,20 +1,5 @@
 ## Hi there 👋, I'm Samuel
 
-<!--
-**SamMed05/SamMed05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm a 18 y/o student from Italy. I'm learning a lot of things on my own. More info below ⬇.
 
 ### ✨ Passions:
@@ -24,7 +9,7 @@ I'm a 18 y/o student from Italy. I'm learning a lot of things on my own. More in
 - Game develompment (Unity 🎮)
 - 3D modeling (Blender 🧡)
 - Generative art 🎨
-- Music 🎵 (Ludovico Einaudi 🤍)
+- Music 🎵
 
 ## Links:
 
@@ -38,8 +23,15 @@ I'm a 18 y/o student from Italy. I'm learning a lot of things on my own. More in
 [c-cpp-notes.vercel.app](https://c-cpp-notes.vercel.app/)
 
 ### 💬 Socials:
-- [Twitter 🐦](https://twitter.com/MedianiSamuel)
-- [SoundCloud 🎵](https://soundcloud.com/user-398636691)
+<p>
+  <a href="https://twitter.com/intent/follow?screen_name=MedianiSamuel">
+    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @MedianiSamuel on Twitter" title="Follow @MedianiSamuel on Twitter">
+  </a>
+
+  <a href="https://soundcloud.com/user-398636691">
+    <img src="https://github.com/SamMed05/SamMed05/assets/66485729/6bd33111-7ac3-435b-8ffb-512151a4062b" width="144" alt="Follow me on SoundCloud" title="Follow me on SoundCloud">
+  </a>
+</p>
 
 ---
 
