@@ -19,9 +19,9 @@ I'm a student from Italy who's constantly learning new things. More info below â
 
 <!-- from https://github.com/tandpfun/skill-icons#readme -->
 
-### ðŸ”— Links:
+### ðŸ”— Links & Socials:
 
-[![Follow on YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white)](https://youtube.com/@samuelmediani?si=q_fE90j3ZnPKEr7j)    [![Follow on Bluesky](https://img.shields.io/badge/Bluesky-%230088fa?logo=bluesky&logoColor=white)](https://bsky.app/profile/sam-med.bsky.social)    [![Follow on SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/user-398636691)    <!--[![GitHub followers](https://img.shields.io/badge/GitHub-@sammed05-181717?logo=github&logoColor=white)](https://github.com/sammed05)-->    [![Reddit](https://img.shields.io/badge/Reddit-@samumedio-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/samumedio)     
+![](https://komarev.com/ghpvc/?username=sammed05&style=flat&abbreviated=true)  Â°  [![Follow on YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white)](https://youtube.com/@samuelmediani?si=q_fE90j3ZnPKEr7j)    [![Follow on Bluesky](https://img.shields.io/badge/Bluesky-%230088fa?logo=bluesky&logoColor=white)](https://bsky.app/profile/sam-med.bsky.social)    [![Follow on SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/user-398636691)    <!--[![GitHub followers](https://img.shields.io/badge/GitHub-@sammed05-181717?logo=github&logoColor=white)](https://github.com/sammed05)-->    [![Reddit](https://img.shields.io/badge/Reddit-@samumedio-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/samumedio)      
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tufc032h2onz3ugn7ejc1u6db&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=35b3e9&bar_color_cover=true)](https://open.spotify.com/user/tufc032h2onz3ugn7ejc1u6db)
 
@@ -70,5 +70,5 @@ I'm a student from Italy who's constantly learning new things. More info below â
 </div>
 -->
 
-| [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammed05&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammed05&hide=html,css,scss,cmake&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammed05&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&border_radius=5&border_color=3B82F6&icon_color=3B82F6&title_color=3B82F6&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammed05&hide=html,css,scss,cmake&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER&border_radius=5&border_color=3B82F6&icon_color=3B82F6&title_color=3B82F6&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) |
 |-----------------|-----------------------------------------------------------------------------------------|
