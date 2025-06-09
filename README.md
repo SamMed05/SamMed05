@@ -2,15 +2,24 @@
 
 I'm a student from Italy who's constantly learning new things. More info below ⬇.
 
-### ✨ Interests:
+<!--### ✨ Interests:
 - Programming 👨‍💻
 - Web and app develompment 💻
 - Game develompment (Unity & Godot 🎮)
 - Music (Ableton 🎵)
 - 3D modeling (Blender 🧡)
-- Generative art/creative coding 🎨
+- Generative art/creative coding 🎨-->
 
-## Links:
+### ✨ Skills & Tools I enjoy using:
+
+| **Languages, App & Web** | [![Languages & Web](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,py,flutter,dart)](https://skillicons.dev) |
+|-----------------|-----------------------------------------------------------------------------------------|
+| **Other tools**     | [![Other tools](https://skillicons.dev/icons?i=windows,linux,bash,vscode,androidstudio,git,latex,svg,md)](https://skillicons.dev) |
+| **Creative**        | [![Creative](https://skillicons.dev/icons?i=ableton,blender,figma,unity,godot,ai,ps,notion,obsidian)](https://skillicons.dev) |
+
+<!-- from https://github.com/tandpfun/skill-icons#readme -->
+
+### 🔗 Links:
 
 [![Follow on YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white)](https://youtube.com/@samuelmediani?si=q_fE90j3ZnPKEr7j)    [![Follow on Bluesky](https://img.shields.io/badge/Bluesky-%230088fa?logo=bluesky&logoColor=white)](https://bsky.app/profile/sam-med.bsky.social)    [![Follow on SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/user-398636691)    <!--[![GitHub followers](https://img.shields.io/badge/GitHub-@sammed05-181717?logo=github&logoColor=white)](https://github.com/sammed05)-->    [![Reddit](https://img.shields.io/badge/Reddit-@samumedio-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/samumedio)
 
@@ -47,7 +56,7 @@ I'm a student from Italy who's constantly learning new things. More info below �
 [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammed05&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammed05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -57,3 +66,7 @@ I'm a student from Italy who's constantly learning new things. More info below �
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammed05&hide=html,css,scss,cmake&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" />
     </a>
 </div>
+-->
+
+| [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammed05&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammed05&hide=html,css,scss,cmake&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER)](https://github.com/anuraghazra/github-readme-stats) |
+|-----------------|-----------------------------------------------------------------------------------------|
