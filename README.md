@@ -74,3 +74,5 @@ I'm a student from Italy who's constantly learning new things. More info below â
 
 | [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammed05&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&border_radius=5&border_color=3B82F6&icon_color=3B82F6&title_color=3B82F6)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammed05&hide=html,css,scss,cmake&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER&border_radius=5&border_color=3B82F6&icon_color=3B82F6&title_color=3B82F6)](https://github.com/anuraghazra/github-readme-stats) |
 |-----------------|-----------------------------------------------------------------------------------------|
+
+<img src="https://pacman.abozanona.me?username=SamMed05" />
