@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Samuel <img width="300" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=tufc032h2onz3ugn7ejc1u6db&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=35b3e9&bar_color_cover=true"/>
+### Hi there 👋, I'm Samuel <img width="300" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=tufc032h2onz3ugn7ejc1u6db&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=35b3e9&bar_color_cover=true"/>
 
 I'm a student from Italy who's constantly learning new things. More info below ⬇.
 
@@ -30,6 +30,7 @@ I'm a student from Italy who's constantly learning new things. More info below �
 #### 📝 Blog: [sammed05.github.io/sm_blog](https://sammed05.github.io/sm_blog/)
 
 #### 📒 Programming notes (C/C++): [c-cpp-notes.vercel.app](https://c-cpp-notes.vercel.app/)
+
 
 > #### 💖 Support:
 > The vast majority of my projects are free and open source. If you find my work helpful and would like to support me, I would greatly appreciate it. You can contribute here ➡️ **[sammed05.github.io/support](https://sammed05.github.io/support/)**
