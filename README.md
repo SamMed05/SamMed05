@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Samuel <img width="300" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=tufc032h2onz3ugn7ejc1u6db&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=35b3e9&bar_color_cover=true"/>
 
-I'm a student from Italy who's constantly learning new things. More info below ⬇.
+I'm a CS student from Italy who's constantly learning new things. More info below ⬇.
 
 <!--### ✨ Interests:
 - Programming 👨‍💻
@@ -8,7 +8,7 @@ I'm a student from Italy who's constantly learning new things. More info below �
 - Game develompment (Unity & Godot 🎮)
 - Music (Ableton 🎵)
 - 3D modeling (Blender 🧡)
-- Generative art/creative coding 🎨-->
+- Art 🎨-->
 
 ### ✨ Skills & Tools I enjoy using:
 
@@ -21,7 +21,7 @@ I'm a student from Italy who's constantly learning new things. More info below �
 
 ### 🔗 Links & Socials:
 
-![](https://komarev.com/ghpvc/?username=sammed05&style=flat&abbreviated=true)  °  [![Follow on YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white)](https://youtube.com/@samuelmediani?si=q_fE90j3ZnPKEr7j)    [![Follow on Bluesky](https://img.shields.io/badge/Bluesky-%230088fa?logo=bluesky&logoColor=white)](https://bsky.app/profile/sam-med.bsky.social)    [![Follow on SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/user-398636691)    <!--[![GitHub followers](https://img.shields.io/badge/GitHub-@sammed05-181717?logo=github&logoColor=white)](https://github.com/sammed05)-->    [![Reddit](https://img.shields.io/badge/Reddit-@samumedio-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/samumedio)      
+![](https://komarev.com/ghpvc/?username=sammed05&style=flat&abbreviated=true)  °  [![Follow on YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white)](https://youtube.com/@samuelmediani?si=q_fE90j3ZnPKEr7j)    [![Follow on X](https://img.shields.io/twitter/follow/MedianiSamuel?style=social&label=Twitter%2FX)](https://x.com/MedianiSamuel)    [![Follow on Bluesky](https://img.shields.io/badge/Bluesky-%230088fa?logo=bluesky&logoColor=white)](https://bsky.app/profile/sam-med.bsky.social)    [![Follow on SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/user-398636691)    <!--[![GitHub followers](https://img.shields.io/badge/GitHub-@sammed05-181717?logo=github&logoColor=white)](https://github.com/sammed05)-->    [![Reddit](https://img.shields.io/badge/Reddit-@samumedio-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/samumedio)      
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tufc032h2onz3ugn7ejc1u6db&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=35b3e9&bar_color_cover=true)](https://open.spotify.com/user/tufc032h2onz3ugn7ejc1u6db)  -->
 
