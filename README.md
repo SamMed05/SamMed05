@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Samuel <img width="300" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=tufc032h2onz3ugn7ejc1u6db&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=35b3e9&bar_color_cover=true"/>
+### Hey 👋, I'm Sam (aka SAMPL3R 🎵) <img width="300" align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=tufc032h2onz3ugn7ejc1u6db&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=35b3e9&bar_color_cover=true"/>
 
-I'm a CS student from Italy who's constantly learning new things. More info below ⬇.
+I'm a CS student and self-taught artist, musician and modeler from Italy.
 
 <!--### ✨ Interests:
 - Programming 👨‍💻
