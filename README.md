@@ -25,7 +25,7 @@ I'm a CS student and self-taught artist, musician and modeler from Italy.
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tufc032h2onz3ugn7ejc1u6db&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=35b3e9&bar_color_cover=true)](https://open.spotify.com/user/tufc032h2onz3ugn7ejc1u6db)  -->
 
-#### 🌐 Portfolio Website: [samdev.netlify.app](https://samdev.netlify.app/)
+#### 🌐 Portfolio Website: 🚧 redesign in progress 🚧
 
 #### 📝 Blog: [sammed05.github.io/sm_blog](https://sammed05.github.io/sm_blog/)
 
